@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/meucanal_id"
+        android:title="@string/meu_canal"/>
+
+    <item
+        android:id="@+id/configuracoes_id"
+        android:title="@string/configura_es"/>
+
+    <item
+        android:id="@+id/sair_id"
+        android:title="@string/sair"/>
+
+    <item
+        android:id="@+id/search_id"
+        android:icon="@drawable/ic_magnify"
+        android:title=""
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/upload_id"
+        android:title=""
+        android:icon="@drawable/ic_upload"
+        app:showAsAction="ifRoom"/>
+
+
+</menu>

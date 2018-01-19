@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="all">
+
+        <item
+            android:title="@string/meu_canal"
+            android:id="@+id/meuCanal_drawer_id"
+            android:icon="@drawable/ic_television" />
+
+        <item
+            android:title="@string/enviar_video"
+            android:id="@+id/enviarVideo_drawer_id"
+            android:icon="@drawable/ic_upload" />
+
+        <item
+            android:title="@string/videos_destaque"
+            android:id="@+id/videosDestaque_drawer_id"
+            android:icon="@drawable/ic_trophy_award" />
+
+    </group>
+
+    <item android:title="@string/categorias">
+
+        <menu>
+
+            <item
+                android:title="@string/comedia"
+                android:id="@+id/comedia_drawer_id"
+                android:icon="@drawable/ic_emoticon_excited" />
+
+            <item
+                android:title="@string/games"
+                android:id="@+id/games_drawer_id"
+                android:icon="@drawable/ic_gamepad" />
+
+            <item
+                android:title="@string/esportes"
+                android:id="@+id/esportes_drawer_id"
+                android:icon="@drawable/ic_basketball" />
+
+            <item
+                android:title="@string/vlogs"
+                android:id="@+id/vlogs_drawer_id"
+                android:icon="@drawable/ic_cctv" />
+
+        </menu>
+
+    </item>
+
+    <item android:title="@string/canais_ligados">
+
+        <menu>
+
+            <item
+                android:title="@string/atletas_pelo_mundo"
+                android:id="@+id/canal1_drawer_id"
+                android:icon="@drawable/ic_account" />
+
+            <item
+                android:title="@string/pool_games"
+                android:id="@+id/canal2_drawer_id"
+                android:icon="@drawable/ic_account" />
+
+            <item
+                android:title="@string/next_level_calistenia"
+                android:id="@+id/canal3_drawer_id"
+                android:icon="@drawable/ic_account" />
+
+            <item
+                android:title="@string/macho_alfa"
+                android:id="@+id/canal4_drawer_id"
+                android:icon="@drawable/ic_account" />
+
+        </menu>
+
+    </item>
+
+
+</menu>

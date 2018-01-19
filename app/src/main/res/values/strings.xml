@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Practice1</string>
+    <string name="meu_canal">Meu canal</string>
+    <string name="configura_es">Configurações</string>
+    <string name="sair">Sair</string>
+    <string name="leafsoon">LeafSoon</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="enviar_video">Enviar Video</string>
+    <string name="julia_image">Julia Image</string>
+    <string name="user_image">User image</string>
+
+    <string name="soon_sam">Soon Sam</string>
+    <string name="karatesoon_gmail_com">karatesoon@gmail.com</string>
+    <string name="categorias">Categorias</string>
+    <string name="comedia">Comedia</string>
+    <string name="games">Games</string>
+    <string name="esportes">Esportes</string>
+    <string name="vlogs">Vlogs</string>
+    <string name="canais_ligados">Canais ligados</string>
+    <string name="atletas_pelo_mundo">Atletas pelo Mundo</string>
+    <string name="pool_games">Pool Games</string>
+    <string name="next_level_calistenia">Next Level Calistenia</string>
+    <string name="macho_alfa">Macho Alfa</string>
+    <string name="videos_destaque">Videos em destaque</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="t_tulo">Título</string>
+    <string name="meta_de_like">Meta de like  Ex: 1000 para mil</string>
+    <string name="descricao">Descrição</string>
+    <string name="campo_obrigatorio">Campo obrigatório</string>
+    <string name="enviar">Enviar</string>
+
+    <style name="open_drawer">Open Drawer</style>
+
+    <style name="close_drawer">Close Drawer</style>
+</resources>
